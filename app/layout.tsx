@@ -10,7 +10,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
     title: 'Anáhuac - Anonymous Messages',
-    description: 'Share anonymous messages exclusively to IBERO.',
+    description: 'Share anonymous messages exclusively to Anáhuac.',
 }
 
 const grenze = Grenze({ subsets: ['latin'], weight: '400', variable: '--font-grenze' })

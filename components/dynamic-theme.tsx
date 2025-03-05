@@ -41,7 +41,7 @@ export function DynamicTheme() {
 
     return (
         <p className='font-semibold text-white'>
-            {theme || `Expose lo más Whitexican de la Ibero`}
+            {theme || `Expose lo más Whitexican de la Anáhuac`}
         </p>
     );
 }

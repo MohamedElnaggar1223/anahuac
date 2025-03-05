@@ -106,7 +106,7 @@ export function MessageInput() {
 				<div className="bg-[#F6F4F4] bg-opacity-20 shadow-xl rounded-b-xl rounded-t-none backdrop-blur-sm px-3 relative">
 					<div className="flex flex-col">
 						<Textarea
-							placeholder="Envía mensajes anónimos a toda la Ibero"
+							placeholder="Envía mensajes anónimos a toda la Anáhuac"
 							value={message}
 							onChange={(e) => setMessage(e.target.value)}
 							className="bg-transparent border-none placeholder:text-[#827575] font-semibold text-sm !outline-none focus-visible:!outline-none !outline-transparent focus-visible:!outline-transparent focus:!ring-0 focus:!ring-transparent px-0 min-h-[8rem] shadow-none"

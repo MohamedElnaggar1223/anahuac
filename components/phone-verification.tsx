@@ -393,8 +393,8 @@ export function PhoneVerification() {
   return (
     <>
       <div className='flex flex-col items-center justify-center gap-12 !mt-20'>
+        <p className='text-xs font-bold my-2'>Not affiliated with Anáhuac</p>
         <Card className="p-4 text-center max-w-md">
-          <p className='text-xs font-bold my-2'>Not affiliated with Anáhuac</p>
           <h3 className="text-lg font-semibold mb-4">
             Revela los secretos de la Anáhuac <br />
             Join Waiting List....App coming soon

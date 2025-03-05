@@ -9,7 +9,7 @@ import { VerificationProvider } from "@/providers/VerifiedContext"
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-    title: 'Sapo - Anonymous Messages',
+    title: 'Anáhuac - Anonymous Messages',
     description: 'Share anonymous messages exclusively to IBERO.',
 }
 
